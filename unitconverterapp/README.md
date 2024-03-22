@@ -1,16 +1,12 @@
-# unitconverterapp
+## Description
+Unit Converter is a mobile application developed using Flutter and Dart. It provides users with a seamless experience for converting various units such as length, weight, volume, and more. Whether you're converting centimeters to meters or grams to kilograms, Unit Converter has got you covered.
 
-A new Flutter project.
+## Features
+- User-Friendly Interface
+- Versatile Unit Conversion
+- Bidirectional Conversion
+- Real-Time Results
+- Customizable Preferences
+- Offline Functionality
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
