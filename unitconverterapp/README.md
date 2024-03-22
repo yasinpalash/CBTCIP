@@ -13,7 +13,7 @@ Unit Converter is a mobile application developed using Flutter and Dart. It prov
 - Dart
 
 ## Screenshots
-![image](https://github.com/yasinpalash/CBTCIP/assets/145049322/2414a71f-7c98-4311-a3ec-9a18598d8269)
+![image](https://github.com/yasinpalash/CBTCIP/assets/145049322/2414a71f-7c98-4311-a3ec-9a18598d8269)  ![image](https://github.com/yasinpalash/CBTCIP/assets/145049322/1b635b13-4b66-4ec6-873b-166d0b76a57c)
 
-![image](https://github.com/yasinpalash/CBTCIP/assets/145049322/1b635b13-4b66-4ec6-873b-166d0b76a57c)
+
 
